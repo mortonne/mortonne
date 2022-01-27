@@ -7,4 +7,5 @@ I've developed a number of software packages for research:
 * [PsiReact](https://github.com/mortonne/psireact): Hierarchical Bayesian modeling of response time data.
 * [Mindstorm](https://github.com/mortonne/mindstorm): Advanced neuroimaging analysis.
 * [Wiki2Vec](https://github.com/prestonlab/wiki2vec): Modeling semantic similarity of well-known stimuli.
+* [fPrep](https://github.com/prestonlab/fprep): Scripts for preprocessing of fMRI data using FSL, FreeSurfer, and ANTS.
 * [Aperture](https://github.com/mortonne/aperture): Matlab toolbox for univariate and multivariate analysis of EEG data.
