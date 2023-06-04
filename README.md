@@ -3,7 +3,7 @@ I work at the Center for Learning and Memory at The University of Texas at Austi
 I've developed a number of software packages for research:
 * [WikiVector](https://github.com/mortonne/wikivector): Tools for quantifying conceptual knowledge based on Wikipedia entries.
 * [Psifr](https://github.com/mortonne/psifr): Analysis and visualization of free recall data.
-* [PsifrR](https://github.com/mortonne/psifr): R package for analysis and visualization of free recall data.
+* [PsifrR](https://github.com/mortonne/psifrr): R package for analysis and visualization of free recall data.
 * [CyMR](https://github.com/mortonne/cymr): Computational modeling of free recall data.
 * [PsiReact](https://github.com/mortonne/psireact): Hierarchical Bayesian modeling of response time data.
 * [Mindstorm](https://github.com/mortonne/mindstorm): Advanced neuroimaging analysis.
