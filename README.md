@@ -1,4 +1,4 @@
-I am a Professor at the University of Wisconsin-Milwaukee and Director of the Human and Machine Learning lab. I use computational modeling and analysis of neuroimaging data to understand human memory.
+I am a Professor at the University of Wisconsin-Milwaukee and Director of the [Human and Machine Learning (HaML) Lab](https://hamllab.org). I use computational modeling and analysis of neuroimaging data to understand human memory.
 
 I've developed a number of software packages for research:
 * [WikiVector](https://github.com/mortonne/wikivector): Tools for quantifying conceptual knowledge based on Wikipedia entries.
