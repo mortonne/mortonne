@@ -1,5 +1,9 @@
 I am a Professor at the University of Wisconsin-Milwaukee and Director of the [Human and Machine Learning (HaML) Lab](https://hamllab.org). I use computational modeling and analysis of neuroimaging data to understand human memory.
 
+In 2025, I wrote an open textbook on Data Science for Psychology, covering data analysis, visualization, statistics, and reporting using Python:
+* [Data Science for Psychology Textbook](https://mortonne.github.io/datascipsych/intro.html)
+* [Course code repository](https://github.com/mortonne/datascipsych)
+
 I've developed a number of software packages for research:
 * [WikiVector](https://github.com/mortonne/wikivector): Tools for quantifying conceptual knowledge based on Wikipedia entries.
 * [Psifr](https://github.com/mortonne/psifr): Analysis and visualization of free recall data.
